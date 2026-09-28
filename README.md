@@ -202,7 +202,7 @@ Worked on an Aircraft Stores Management System using:
 If you'd like to connect with me regarding opportunities, projects, or collaboration:
 
 * **Portfolio:** https://anish-kahar-portfolio.vercel.app/
-* **GitHub:** https://github.com/
+* **GitHub:** [https://github.com/](https://github.com/Anishhkumarr)
 * **LinkedIn:** https://www.linkedin.com/
 
 ---
