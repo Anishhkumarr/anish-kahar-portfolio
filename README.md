@@ -203,7 +203,7 @@ If you'd like to connect with me regarding opportunities, projects, or collabora
 
 * **Portfolio:** https://anish-kahar-portfolio.vercel.app/
 * **GitHub:** [https://github.com/](https://github.com/Anishhkumarr)
-* **LinkedIn:** https://www.linkedin.com/
+* **LinkedIn:** [https://www.linkedin.com/](https://www.linkedin.com/in/anish-kahar-480372244)
 
 ---
 
